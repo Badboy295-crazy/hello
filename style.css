@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+}
+
+.banner {
+  height: 100px;
+  background: linear-gradient(to right, #001f3f, #0074D9);
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+footer h4 {
+  margin: 0;
+}
